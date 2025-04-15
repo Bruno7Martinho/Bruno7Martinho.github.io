@@ -16,8 +16,8 @@ A página contém as seguintes seções:
 1. **Informações Pessoais**: Nome, cidade, e contato.
 2. **Objetivo Profissional**: Descrição do meu objetivo na área de TI.
 3. **Formação Acadêmica**: Detalhes sobre minha formação e cursos realizados.
-5. **Experiências Profissionais ou Projetos Desenvolvidos**: Projetos importantes nos quais participei, com links para os repositórios no GitHub.
-6. **Habilidades Técnicas**: Tecnologias, ferramentas e linguagens que domino.
+4. **Experiências Profissionais ou Projetos Desenvolvidos**: Projetos importantes nos quais participei, com links para os repositórios no GitHub.
+5. **Habilidades Técnicas**: Tecnologias, ferramentas e linguagens que domino.
 
 ## Como Visualizar
 
@@ -27,9 +27,9 @@ A página contém as seguintes seções:
 ## Funcionalidades Interativas
 
 A página possui interações com JavaScript, que incluem:
+
 - **Efeito Hover**: Ao passar o mouse sobre as imagens, elas aumentam de tamanho.
 - **Eventos de Clique**: Links para acessar meus projetos no GitHub.
-
 
 ## Como Usar
 
@@ -44,8 +44,6 @@ A página possui interações com JavaScript, que incluem:
 - `script.js`: Arquivo que contém os scripts de interação com JavaScript.
 - `image/`: Pasta contendo as imagens usadas na página.
 - `README.md`: Este arquivo com informações sobre o projeto.
-
-
 
 ## Contato
 
