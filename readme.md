@@ -22,7 +22,7 @@ A página contém as seguintes seções:
 ## Como Visualizar
 
 1. Abra o arquivo `index.html` no seu navegador para visualizar a página.
-2. O projeto está hospedado no [GitHub Pages](https://brunomartinho.github.io/portfolio/) (se for o caso de já ter sido publicado).
+2. O projeto está hospedado no [GitHub Pages](https://brunomartinho.github.io/portfolio/).
 
 ## Funcionalidades Interativas
 
